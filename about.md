@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: inner
 title: About
 permalink: /about/
@@ -203,3 +203,4 @@ nav_item:
   - { url: '/', text: 'Home' }
   - { url: '/about', text: 'About' }
 {% endhighlight %}
+ -->
