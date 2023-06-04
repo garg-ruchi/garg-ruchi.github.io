@@ -20,7 +20,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. https://example.com
 twitter_username: 'Nuc_RGarg'
 github_username: 'garg-ruchi'
-medium_username: ''
+scholar_url: 'https://scholar.google.com/citations?hl=en&user=qHHExX8AAAAJ&view_op=list_works&gmla=AHoSzlVG677lJOCOvBvPvLHJ2g3O61oFDyjXvvJUvM_7GKmTcQ6JMVrNcKHs1RUTJx4qhzC_KOI8GX0KGRpDGWhk'
 
 # Build settings
 markdown: kramdown
